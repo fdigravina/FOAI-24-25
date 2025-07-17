@@ -1,0 +1,11 @@
+Meteo per il nodo 23: pioggia_media
+Meteo per il nodo 24: pioggia_media
+Meteo per il nodo 33: pioggia_media
+Meteo per il nodo 42: sole
+Meteo per il nodo 45: sole
+Meteo per il nodo 55: sole
+Meteo per il nodo 61: pioggia_lieve
+Meteo per il nodo 76: pioggia_lieve
+Meteo per il nodo 82: pioggia_lieve
+Meteo per il nodo 85: sole
+Meteo per il nodo 89: sole

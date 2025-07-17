@@ -1,0 +1,11 @@
+Meteo per il nodo 6: pioggia_lieve
+Meteo per il nodo 15: sole
+Meteo per il nodo 16: sole
+Meteo per il nodo 22: sole
+Meteo per il nodo 24: sole
+Meteo per il nodo 36: sole
+Meteo per il nodo 39: sole
+Meteo per il nodo 49: pioggia_lieve
+Meteo per il nodo 59: sole
+Meteo per il nodo 72: sole
+Meteo per il nodo 82: sole
